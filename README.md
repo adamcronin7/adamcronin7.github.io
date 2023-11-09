@@ -1,4 +1,4 @@
-# The Hacker-Blog theme
+# My Security Blog
 *Created using the [hacker-blog](https://github.com/pages-themes/hacker) theme.*
 
 A web page to post security writeups and information.
